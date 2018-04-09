@@ -1,4 +1,4 @@
-# 岡田輝久 OKADA Teruhisa
+# 岡田輝久
 
 ## 所属
 
