@@ -1,7 +1,7 @@
 title: OKADA Teruhisa
 description: OKADA Teruhisa
 google_analytics: 
-show_downloads: true
+show_downloads: #true
 theme: jekyll-theme-minimal
 
 gems:
